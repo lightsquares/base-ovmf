@@ -1,5 +1,7 @@
 # Base OVMF
 
+[![Light Squares Attestable Builds](https://app.lightsquares.dev/api/badge/lightsquares/base-ovmf.svg)](https://app.lightsquares.dev/builds/dashboard?show=lightsquares/base-ovmf)
+
 Builds the pinned AMD SEV-SNP OVMF firmware used by the confidential VM base image.
 
 ```sh
